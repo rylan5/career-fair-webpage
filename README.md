@@ -1,4 +1,4 @@
-# Spring Career Fair 2026 Exploration Website
+# Spring Career Fair 2026 Exploration Webpage
 
 This project is a custom HTML and CSS webpage created to document my experience at the Spring Career Fair 2026 at Florida A&M University. The site highlights three companies I spoke with—Epic, Honeywell, and Rocket—and presents key information, unique insights, and personal reflections based on my conversations with their recruiters.
 
